@@ -41,3 +41,6 @@
 
 #### Stats
 [![Hotan486's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotan486&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotan486&layout=compact&theme=outrun)
+
