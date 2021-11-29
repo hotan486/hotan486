@@ -40,4 +40,4 @@
 
 
 #### Stats
-[![Hotan486's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotan486&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hotan486's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotan486&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
