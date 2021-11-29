@@ -37,3 +37,7 @@
   <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+
+#### Stats
+[![Hotan486's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotan486)](https://github.com/anuraghazra/github-readme-stats)
